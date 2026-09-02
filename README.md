@@ -1,2 +1,2 @@
-# writeups
-Im gonna be doing write ups 
+# My writeups
+**Here im gonna be publishing easy writeups**
