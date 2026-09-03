@@ -5,6 +5,8 @@
 
 **Difficulty:** Very Easy
 
+**⚠️Disclaimer:** This writeup contains direct answers to task questions, step-by-step solutions, and the final flag.
+
 ## Pre-Engagement & Setup
 
 Before starting our enumeration, we need to connect to the lab environment. Here are the foundational concepts for connecting:
