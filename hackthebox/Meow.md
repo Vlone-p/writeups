@@ -147,12 +147,11 @@ flag.txt  snap
 
 We read the contents of the file to retrieve the final flag.
 
-**Submit the flag located in root's home directory.**
-> ### ✅ Answer: `b40abdfe23665f766f9c61ecba8a4c19`
-
 ```bash
 cat flag.txt
 ```
 ```text
 b40abdfe23665f766f9c61ecba8a4c19
 ```
+**Submit the flag located in root's home directory.**
+> ### ✅ Answer: `b40abdfe23665f766f9c61ecba8a4c19`
