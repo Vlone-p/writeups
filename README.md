@@ -1,6 +1,7 @@
 # My writeups
 **Here im gonna be publishing easy writeups**
-⚠️ Legal Disclaimer
+
+## ⚠️ Legal Disclaimer
 
 The techniques, tools, and documentation provided in this repository are strictly for educational and ethical hacking purposes. All activities described were performed in legally authorized, isolated environments (such as HackTheBox and TryHackMe). 
 
