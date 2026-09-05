@@ -12,13 +12,13 @@
 Before starting our enumeration, we need to connect to the lab environment. Here are the foundational concepts for connecting:
 
 **In cybersecurity, isolated environments—like Pwnbox or the vulnerable target machines—are often VMs. What does VM stand for?**
-> ### ✅ Answer: `Virtual Machine`
+> ✅ **Answer:** `Virtual Machine`
 
 **What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.**
-> ### ✅ Answer: `terminal`
+> ✅ **Answer:** `terminal`
 
 **What service do we use to form our VPN connection into HTB labs?**
-> ### ✅ Answer: `openvpn`
+> ✅ **Answer:** `openvpn`
 
 ---
 
@@ -27,7 +27,7 @@ Before starting our enumeration, we need to connect to the lab environment. Here
 First, we need to verify that our target is online and reachable. 
 
 **What tool do we use to test our connection to the target with an ICMP echo request?**
-> ### ✅ Answer: `ping`
+> ✅ **Answer:** `ping`
 
 We issue the `ping` command to the target IP to confirm we have a connection.
 
@@ -48,7 +48,7 @@ rtt min/avg/max/mdev = 63.586/64.760/66.041/1.005 ms
 Next, we need to scan for open ports.
 
 **What is the name of the most common tool for finding open ports on a target?**
-> ### ✅ Answer: `nmap`
+> ✅ **Answer:** `nmap`
 
 We perform a port scan with service detection using `nmap` to identify open ports and the services running on them.
 
@@ -70,7 +70,7 @@ Nmap done: 1 IP address (1 host up) scanned in 13.76 seconds
 
 **Alternative Enumeration:**
 As an alternative to Nmap, a custom Python port scanner (`viper.py`) can be used to quickly identify open ports.
-The tool is avalibel here:https://github.com/Vlone-p/viper
+The tool is available here: https://github.com/Vlone-p/viper
 ```bash
 python viper.py 10.129.185.241 -sV
 ```
@@ -100,7 +100,7 @@ Scan completed in 1.64 seconds
 Based on our scan results, we found a service running on port 23.
 
 **What service do we identify on port 23/tcp during our scans?**
-> ### ✅ Answer: `telnet`
+> ✅ **Answer:** `telnet`
 
 ---
 
@@ -109,7 +109,7 @@ Based on our scan results, we found a service running on port 23.
 Because Telnet is running and often relies on default or weak credentials, we attempt to connect to the target using the `telnet` client. 
 
 **What username is able to log into the target over telnet with a blank password?**
-> ### ✅ Answer: `root`
+> ✅ **Answer:** `root`
 
 We try the default administrative username `root` and leave the password blank.
 
@@ -154,4 +154,4 @@ cat flag.txt
 b40abdfe23665f766f9c61ecba8a4c19
 ```
 **Submit the flag located in root's home directory.**
-> ### ✅ Answer: `b40abdfe23665f766f9c61ecba8a4c19`
+> ✅ **Answer:** `b40abdfe23665f766f9c61ecba8a4c19`
