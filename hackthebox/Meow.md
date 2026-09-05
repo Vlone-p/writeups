@@ -5,7 +5,7 @@
 
 **Difficulty:** Very Easy
 
-**⚠️Disclaimer:** This writeup contains direct answers to task questions, step-by-step solutions, and the final flag.
+**⚠️Disclaimer:** This writeup contains direct answers to task questions, step by step solutions, and the final flag.
 
 ## Pre-Engagement & Setup
 
