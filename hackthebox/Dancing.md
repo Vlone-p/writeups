@@ -41,7 +41,7 @@ Nmap done: 1 IP address (1 host up) scanned in 1.35 seconds
 ```
 
 **Alternative Enumeration:**
-As an alternative to Nmap, a custom Python port scanner (`viper.py`) can be used to quickly identify open ports and services.
+As an alternative to Nmap, a custom Python port scanner (`viper.py`) can be used to quickly identify open ports and services.The tool is available here: https://github.com/Vlone-p/viper
 ```bash
 python viper.py 10.129.193.48 -sV
 ```
