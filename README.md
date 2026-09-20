@@ -1,5 +1,6 @@
 # My writeups
 **Here im gonna be publishing some easy writeups**
+(i do capture the flags beside these )
 
 ## ⚠️ Legal Disclaimer
 
