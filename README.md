@@ -1,6 +1,6 @@
 # My writeups
 **Here im gonna be publishing some easy writeups**
-(i do capture the flags beside these )
+(i do capture the flags beside these so far these are just very easy ones)
 
 ## ⚠️ Legal Disclaimer
 
