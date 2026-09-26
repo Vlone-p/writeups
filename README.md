@@ -1,6 +1,9 @@
-# My writeups
+# My Writeups
 **Here im gonna be publishing some easy writeups**
-(i do capture the flags beside these so far these are just very easy ones)
+
+📊 **Total Writeups: 4**
+
+*(I do capture the flags beside these, so far these are just very easy ones)*
 
 ## ⚠️ Legal Disclaimer
 
