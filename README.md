@@ -1,7 +1,7 @@
 # My Writeups
 **Here im gonna be publishing some easy writeups**
 
-📊 **Total Writeups: 4**
+📊 **Total Writeups: 5**
 
 *(I do capture the flags beside these, so far these are just very easy ones)*
 
