@@ -32,7 +32,7 @@ First, connect to the TryHackMe network using OpenVPN, then SSH into the target 
 
 Connect to the VPN:
 ```bash
-sudo openvpn <your_username>.ovpn
+sudo openvpn <your_configuration_file>.ovpn
 ```
 
 SSH into the lab machine with the provided credentials (`ubuntu` / `tryhackme`):
