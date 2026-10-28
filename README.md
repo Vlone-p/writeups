@@ -3,7 +3,7 @@
 
 📊 **Total Writeups: 8**
 
-**Latest room**:[Plotted-TMS](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Cheese_CTF/Cheese_CTF.md)
+**Latest room**:[Cheese_CTF](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Cheese_CTF/Cheese_CTF.md)
 
 *(I do capture the flags beside these, so far these are just very easy ones)*
 
