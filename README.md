@@ -1,9 +1,9 @@
 # My Writeups
 **Here im gonna be publishing some easy writeups**
 
-📊 **Total Writeups: 7**
+📊 **Total Writeups: 8**
 
-**Latest room**:[Plotted-TMS](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Plotted-TMS/Plotted-TMS.md)
+**Latest room**:[Plotted-TMS](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Cheese_CTF/Cheese_CTF.md)
 
 *(I do capture the flags beside these, so far these are just very easy ones)*
 
