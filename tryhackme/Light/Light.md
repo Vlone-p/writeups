@@ -21,9 +21,9 @@
 - [Identifying the Database Type](#identifying-the-database-type)
 - [Enumerating Tables](#enumerating-tables)
 - [Extracting Credentials](#extracting-credentials)
-- [Task 1 Answer: Admin Username](#task-1-answer-admin-username)
-- [Task 2 Answer: Admin Password](#task-2-answer-admin-password)
-- [Task 3 Answer: The Flag](#task-3-answer-the-flag)
+- [Answer 1: Admin Username](#answer-1-admin-username)
+- [Answer 2: Admin Password](#answer-2-admin-password)
+- [Answer 3: The Flag](#answer-3-the-flag)
 - [Conclusion](#conclusion)
 
 ---
@@ -229,7 +229,7 @@ The server dumps the admin credentials formatted as `username:password`, and the
 
 ---
 
-## Task 1 Answer: Admin Username
+## Answer 1: Admin Username
 
 **What is the admin username?**
 > ✅ **Answer:** `[REDACTED]`
@@ -238,7 +238,7 @@ The server dumps the admin credentials formatted as `username:password`, and the
 
 ---
 
-## Task 2 Answer: Admin Password
+## Answer 2: Admin Password
 
 **What is the password to the username mentioned in question 1?**
 > ✅ **Answer:** `[REDACTED]`
@@ -247,7 +247,7 @@ The server dumps the admin credentials formatted as `username:password`, and the
 
 ---
 
-## Task 3 Answer: The Flag
+## Answer 3: The Flag
 
 The flag was returned in the same SQL injection response above, right after the credentials dump.
 
@@ -278,3 +278,4 @@ Big thanks to [**hadrian3689**](https://tryhackme.com/p/hadrian3689) and TryHack
 - [PayloadsAllTheThings - SQLite Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/SQLite%20Injection.md)
 - [PayloadsAllTheThings - MySQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MySQL%20Injection.md)
 - [SQLite - sqlite_master table](https://www.sqlite.org/sqlitemaster.html)
+
