@@ -1,9 +1,9 @@
 # My Writeups
 **Here im gonna be publishing some easy writeups**
 
-📊 **Total Writeups: 8**
+📊 **Total Writeups: 9**
 
-**Latest room**:[Cheese_CTF](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Cheese_CTF/Cheese_CTF.md)
+**Latest room**:[Light](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Light/Light.md)
 
 *(I do capture the flags beside these, so far these are just very easy ones)*
 
