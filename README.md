@@ -3,7 +3,7 @@
 
 📊 **Total Writeups: 10**
 
-**Latest room**:[Billing](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Light/Light.md)
+**Latest room**:[Billing](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Billing/Billing.md)
 
 *(I do capture the flags beside these, so far these are just very easy ones)*
 
