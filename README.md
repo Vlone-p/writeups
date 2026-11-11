@@ -1,7 +1,7 @@
 # My Writeups
 **Here im gonna be publishing some easy writeups**
 
-📊 **Total Writeups: 10**
+📊 **Total Writeups: 11**
 
 **Latest room**:[Billing](https://github.com/Vlone-p/writeups/blob/main/tryhackme/Billing/Billing.md)
 
